@@ -24,6 +24,9 @@ h1 {
   padding: 24px;
   font-size: 18px;
 }
+form div {
+  margin: 12px 0;
+}
 .right {
   background: #ff5e00;
   height: 100%;
